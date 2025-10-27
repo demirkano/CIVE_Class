@@ -3,12 +3,3 @@ Commmit2!!
 NewBranchYEAH
 <<<<<<< HEAD
 4oldu4!!!
-=======
-Baska birsey deniyom.
->>>>>>> new2
-<<<<<<< HEAD
-YeniDeneme
-Revert Denemesiii!!
-=======
-YeniDeneme
->>>>>>> parent of 7fd1c05 (Revert "Try back")
