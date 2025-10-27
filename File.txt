@@ -1,4 +1,8 @@
 HELO CIVE
 Commmit2!!
 NewBranchYEAH
+<<<<<<< HEAD
 4oldu4!!!
+=======
+Baska birsey deniyom.
+>>>>>>> new2
