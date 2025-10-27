@@ -6,3 +6,5 @@ NewBranchYEAH
 =======
 Baska birsey deniyom.
 >>>>>>> new2
+YeniDeneme
+Revert Denemesiii!!
