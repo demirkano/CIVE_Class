@@ -6,4 +6,3 @@ NewBranchYEAH
 =======
 Baska birsey deniyom.
 >>>>>>> new2
-YeniDeneme
